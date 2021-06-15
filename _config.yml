@@ -1,25 +1,24 @@
-title:            Jordi Pont-Tuset's site
+title:            Sophie Zhu's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              www.sophiemzhu.com
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
+#disqus_shortname: jponttuset
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
+  name:           Sophie Zhu
   avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  bio:            Hi! I'm an Epidemiology PhD Candidate at UC Davis. I'm interested in zoonotic diseases, conservation, and mathematical modeling!
+  email:          sozhu@ucdavis.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  twitter: sophiezoo
+  linkedin: sophiemzhu
+  google_scholar: H6z9-lMAAAAJ
+  github: sophiemzhu
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -33,11 +32,9 @@ links:
     url: /publications/
   - title: Code
     url: /code/
-  - title: Blog
-    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    America/Los_Angeles
 future:      true
 #pygments:    true
 highlighter: rouge
