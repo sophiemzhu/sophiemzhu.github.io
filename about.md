@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /code/
+permalink: /about/
 title: About Me
-tags: [code]
+tags: [about]
 modified: 6-15-2021
 comments: false
 ---
