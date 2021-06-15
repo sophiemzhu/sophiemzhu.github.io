@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Sophie Zhu's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: monterey.jpg
 ---
 
 I am PhD Candidate at <a href="https://shapirolab.vetmed.ucdavis.edu" target="_blank">the Shapiro Laboratory</a> at the University of California, Davis.
