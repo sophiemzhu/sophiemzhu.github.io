@@ -7,7 +7,7 @@ image:
   feature: monterey.jpg
 ---
 
-I am PhD Candidate at <a href="https://shapirolab.vetmed.ucdavis.edu" target="_blank">the Shapiro Laboratory</a> at the University of California, Davis.
+I am a PhD Candidate at the <a href="https://shapirolab.vetmed.ucdavis.edu" target="_blank">Shapiro Laboratory</a> at the University of California, Davis.
 
 <br />
 I am an epidemiologist by training with interests in emerging infectious diseases, waterborne pathogens, and wildlife conservation.
