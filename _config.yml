@@ -1,4 +1,4 @@
-title:            Jordi Pont-Tuset's site
+title:            Sophie Zhu's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //jponttuset.github.io
@@ -8,7 +8,7 @@ disqus_shortname: jponttuset
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
+  name:           Sophie Zhu
   avatar:         jordi.png
   bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
   email:          jponttuset@gmail.com
@@ -37,7 +37,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    America/Los_Angeles
 future:      true
 #pygments:    true
 highlighter: rouge
