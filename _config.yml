@@ -1,4 +1,4 @@
-title:            Sophie Zhu's site
+title:            Sophie Zhu
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //sophiemzhu.github.io
@@ -26,7 +26,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About
     url: /code/
   - title: Publications
     url: /publications/
