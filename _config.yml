@@ -26,12 +26,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: CV
-    url: /cv/
-  - title: Publications
-    url: /publications/
   - title: About Me
     url: /code/
+  - title: Publications
+    url: /publications/
+  - title: CV
+    url: /cv/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
