@@ -1,7 +1,7 @@
 ---
 layout: home2
 title: Me in a Nutshell
-description: "Sophie Zhu's website"
+description: "Sophie Zhu"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: monterey.jpg
