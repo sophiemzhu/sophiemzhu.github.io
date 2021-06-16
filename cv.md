@@ -10,7 +10,9 @@ comments: false
 
 Ph.D. Epidemiology (anticipated June 2023)<br>
 University of California, Davis<br>
-Davis, CA <br/>
+Davis, CA <br>
+
+<br/>
 
 B.S. Animal Science, 2016<br>
 Cornell University<br>
@@ -18,22 +20,22 @@ Ithaca, NY <br/>
 
 ### Research
 
-* 2019-current:**Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
+* 2019-current: **Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
 Advised by: Dr. Karen Shapiro, Dr. Elizabeth VanWormer, and Dr. Beatriz Martínez-López
 
-* 2019:**EcoHealth Net Intern**, EpiCenter for Disease Dynamics, University of California, Davis<br>
+* 2019: **EcoHealth Net Intern**, EpiCenter for Disease Dynamics, University of California, Davis<br>
 Advised by: Dr. Pranav Pandit, Dr. Tierra Evans, and Dr. Christine Johnson
 
-* 2017-2018:**Global Health Intern**, Smithsonian Conservation Biology Institute<br>
+* 2017-2018: **Global Health Intern**, Smithsonian Conservation Biology Institute<br>
 Advised by: Dr. Dawn Zimmerman and Dr. Sharon Deem
 
-* 2017-2018:**Research Intern**, Wildlife Health Lab, Cornell University School of Veterinary Medicine<br>
+* 2017-2018: **Research Intern**, Wildlife Health Lab, Cornell University School of Veterinary Medicine<br>
 Advised by Dr. Krysten Schuler, Dr. Elizabeth Buckles, and Dr. Elizabeth Bunting
 
-* 2015-2017**Research Technician**, Mohammed Laboratory, Cornell University School of Veterinary Medicine<br>
+* 2015-2017: **Research Technician**, Mohammed Laboratory, Cornell University School of Veterinary Medicine<br>
 Advised by Dr. Hussni Mohammed
 
-* 2013-2014:**Undergraduate Research Assistant**, Sands Laboratory, Montana State University<br>
+* 2013-2014: **Undergraduate Research Assistant**, Sands Laboratory, Montana State University<br>
 Advised by Dr. David C. Sands
 
 ### Awards
