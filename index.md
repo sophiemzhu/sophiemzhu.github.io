@@ -10,6 +10,9 @@ image:
 I am a PhD Candidate at the <a href="https://shapirolab.vetmed.ucdavis.edu" target="_blank">Shapiro Laboratory</a> at the University of California, Davis.
 
 <br />
+My bffs are Anna and John. They are my sun and my moon - they are the best mentors and friends that I could ever ask for.
+
+<br />
 I am an epidemiologist by training with interests in emerging infectious diseases, waterborne pathogens, mathematical modeling, and wildlife conservation.
 
 <br />
