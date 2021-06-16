@@ -10,11 +10,11 @@ comments: false
 
 Ph.D. Epidemiology (anticipated June 2023)<br>
 University of California, Davis<br>
-Davis, CA</br>
+Davis, CA<br/ >
 
 B.S. Animal Science, 2016<br>
 Cornell University<br>
-Ithaca, NY</br>
+Ithaca, NY<br/ >
 
 ### Research
 
