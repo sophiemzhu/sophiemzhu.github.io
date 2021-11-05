@@ -31,7 +31,9 @@ links:
     url: /publications/
   - title: CV
     url: /cv/
-
+  - title: Diversity, Equity, and Inclusion
+    url: /dei/
+  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
 future:      true
