@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: dei
 permalink: /dei/
 title: DEI
-tags: [cv]
+tags: [dei]
 modified: 11-05-2021
 comments: false
 ---
