@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: My CV
 tags: [cv]
-modified: 6-15-2021
+modified: 7-21-2022
 comments: false
 ---
 ### Education
@@ -19,6 +19,9 @@ Cornell University<br>
 Ithaca, NY <br/>
 
 ### Research
+
+* June 2022-current: **COVID-19 Modeling Intern**, California Department of Public Health<br>
+Advised by: Dr. Tomás León and Dr. Lauren White
 
 * 2019-current: **Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
 Advised by: Dr. Karen Shapiro, Dr. Elizabeth VanWormer, and Dr. Beatriz Martínez-López
