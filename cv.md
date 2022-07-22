@@ -21,25 +21,30 @@ Ithaca, NY <br/>
 ### Research
 
 * June 2022-current: **COVID-19 Modeling Intern**, California Department of Public Health<br>
-Advised by: Dr. Tomás León and Dr. Lauren White
+Advised by: Dr. Tomás León and Dr. Lauren White<br>
+Scenario and forecast modeling on the QALY burden of Long COVID within California
 
 * 2019-current: **Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
-Advised by: Dr. Karen Shapiro, Dr. Elizabeth VanWormer, and Dr. Beatriz Martínez-López
+Advised by: Dr. Karen Shapiro, Dr. Elizabeth VanWormer, and Dr. Beatriz Martínez-López<br>
+Dissertation research on the dynamics of Toxoplasma gondii transmission and felid oocyst shedding in relation to wildlife and human health
 
 * 2019: **EcoHealth Net Intern**, EpiCenter for Disease Dynamics, University of California, Davis<br>
-Advised by: Dr. Pranav Pandit, Dr. Tierra Evans, and Dr. Christine Johnson
+Advised by: Dr. Pranav Pandit, Dr. Tierra Evans, and Dr. Christine Johnson<br>
+Created novel stochastic compartmental model to examine the role of non-human primates in sylvatic cycles of Flaviviruses in South and Central America
 
 * 2017-2018: **Global Health Intern**, Smithsonian Conservation Biology Institute<br>
-Advised by: Dr. Dawn Zimmerman and Dr. Sharon Deem
+Advised by: Dr. Dawn Zimmerman and Dr. Sharon Deem<br>
+Reviewed and published manuscript on emerging zoonotic pathogens in dromedary camels
 
 * 2017-2018: **Research Intern**, Wildlife Health Lab, Cornell University School of Veterinary Medicine<br>
-Advised by Dr. Krysten Schuler, Dr. Elizabeth Buckles, and Dr. Elizabeth Bunting
+Advised by Dr. Krysten Schuler, Dr. Elizabeth Buckles, and Dr. Elizabeth Bunting<br>
+Analyzed retrospective necropsy data of ~700 free ranging white-tail deer to describe and identify risk factors for mortality
 
 * 2015-2017: **Research Technician**, Mohammed Laboratory, Cornell University School of Veterinary Medicine<br>
-Advised by Dr. Hussni Mohammed
+Analyzed case-control data of biaxial limb fractures in NYS racehorses and evaluated the useage of pNF-H as a biomarker for equine neurologic disorders
 
 * 2013-2014: **Undergraduate Research Assistant**, Sands Laboratory, Montana State University<br>
-Advised by Dr. David C. Sands
+Assisted in the development of novel soil mineral deficiency detection system using mutant barley lines
 
 ### Awards
 
@@ -49,9 +54,10 @@ Advised by Dr. David C. Sands
 
 ### Funding
 
-* 2020 UC Davis Graduate Student Support Program ($28000)
+* 2022 UC Davis Graduate Student Support Program
+* 2020 UC Davis Graduate Student Support Program
 * 2020 UC Davis School of Veterinary Medicine Global Health Fellowship ($6000)
 * 2020 UC Davis One Health Institute, Phil and Karen Drayer Wildlife Health Center Fellowship ($5000)
-* 2019 UC Davis Graduate Group in Epidemiology Fellowship ($10000)
-* 2018 UC Davis Graduate Group in Epidemiology Fellowship ($20000)
+* 2019 UC Davis Graduate Group in Epidemiology Fellowship 
+* 2018 UC Davis Graduate Group in Epidemiology Fellowship
 * 2014 Montana State University Vice President for Research Grant ($2000)
