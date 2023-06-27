@@ -3,12 +3,12 @@ layout: cv
 permalink: /cv/
 title: My CV
 tags: [cv]
-modified: 7-21-2022
+modified: 6-27-2023
 comments: false
 ---
 ### Education
 
-Ph.D. Epidemiology (anticipated June 2023)<br>
+Ph.D. Epidemiology, 2023<br>
 University of California, Davis<br>
 Davis, CA <br>
 
@@ -20,11 +20,14 @@ Ithaca, NY <br/>
 
 ### Research
 
-* June 2022-current: **COVID-19 Modeling Intern**, California Department of Public Health<br>
+* 2023-present: **Epidemic Intelligence Service Officer**, Centers for Disease Control and Prevention<br>
+Assigned to the California Department of Public Health, Richmond, CA<br>
+
+* 2022-2023: **COVID-19 Modeling Intern**, California Department of Public Health<br>
 Advised by: Dr. Tomás León and Dr. Lauren White<br>
 Scenario and forecast modeling on the QALY burden of Long COVID within California
 
-* 2019-current: **Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
+* 2019-2023: **Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
 Advised by: Dr. Karen Shapiro, Dr. Elizabeth VanWormer, and Dr. Beatriz Martínez-López<br>
 Dissertation research on the dynamics of Toxoplasma gondii transmission and felid oocyst shedding in relation to wildlife and human health
 
