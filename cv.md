@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: My CV
 tags: [cv]
-modified: 6-27-2023
+modified: 12-10-2023
 comments: false
 ---
 ### Education
