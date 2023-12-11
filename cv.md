@@ -29,7 +29,7 @@ Scenario modeling on the QALY burden of Long COVID within California
 
 * 2019-2023: **Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
 Advised by: Dr. Karen Shapiro, Dr. Elizabeth VanWormer, and Dr. Beatriz Martínez-López<br>
-Dissertation research on the dynamics of Toxoplasma gondii transmission and felid oocyst shedding in relation to wildlife and human health
+Dynamics of Toxoplasma gondii transmission and felid oocyst shedding in relation to wildlife and human health
 
 * 2019: **EcoHealth Net Intern**, EpiCenter for Disease Dynamics, University of California, Davis<br>
 Advised by: Dr. Pranav Pandit, Dr. Tierra Evans, and Dr. Christine Johnson<br>
