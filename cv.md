@@ -25,7 +25,7 @@ Assigned to the California Department of Public Health, Richmond, CA<br>
 
 * 2022-2023: **COVID-19 Modeling Intern**, California Department of Public Health<br>
 Advised by: Dr. Tomás León and Dr. Lauren White<br>
-Scenario and forecast modeling on the QALY burden of Long COVID within California
+Scenario modeling on the QALY burden of Long COVID within California
 
 * 2019-2023: **Ph.D. Candidate**, Shapiro Laboratory, University of California, Davis<br>
 Advised by: Dr. Karen Shapiro, Dr. Elizabeth VanWormer, and Dr. Beatriz Martínez-López<br>
