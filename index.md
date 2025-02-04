@@ -7,7 +7,7 @@ image:
   feature: monterey.jpg
 ---
 
-I am an epidemiologist by training with interests in emerging infectious diseases, waterborne pathogens, mathematical modeling, and wildlife conservation. I received my Ph.D. in Epidemiology from the University of California, Davis in 2023 and am currently serving as an Epidemic Intelligence Service Officer for the Centers for Disease Control and Prevention.
+I am an epidemiologist by training with interests in emerging infectious diseases, waterborne pathogens, mathematical modeling, and wildlife conservation. I received my Ph.D. in Epidemiology from the University of California, Davis in 2023.
 
 <br />
 
